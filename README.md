@@ -99,3 +99,15 @@ TroopGen() / Patrol() – Δημιουργία και κίνηση stormtroopers
 CheckWinLose() – Έλεγχος κατάστασης παιχνιδιού
 
 ## Παραδείγματα Εξόδου
+
+![1](/images/newHope_menu.png)
+
+![2](/images/newHope_starting_board.png)
+
+![3](/images/newHope_moveNpatrol.png)
+
+![4](/images/newHope_trooperhit.png)
+
+![5](/images/newHope_vaderChase.png)
+
+![5](/images/newHope_gameLost.png)
